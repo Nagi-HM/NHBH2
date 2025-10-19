@@ -1,11 +1,11 @@
 window.addEventListener('load', () => {
     const messages = [
-        "Chúc bạn luôn giữ được trái tim ấm áp, nụ cười rạng rỡ và một tâm hồn an yên 🌸",
-        "Mong những điều tốt đẹp nhất sẽ luôn đồng hành cùng bạn, không chỉ hôm nay mà mãi về sau 💖",
-        "Chúc bạn không chỉ có ngày 20/10 thật hạnh phúc mà còn luôn thành công trong học tập 💕",
-        "Mong bạn luôn an yên,khoẻ mạnh và được yêu thương đúng như bạn mong muốn 🌷",
+        "Chúc các chị và các bạn luôn giữ được trái tim ấm áp, nụ cười rạng rỡ và một tâm hồn an yên 🌸",
+        "Mong những điều tốt đẹp nhất sẽ luôn đồng hành cùng các chị và các bạn, không chỉ hôm nay mà mãi về sau 💖",
+        "Chúc các chị và các bạn không chỉ có ngày 20/10 thật hạnh phúc mà còn luôn thành công trong học tập 💕",
+        "Mong các chị và các bạn luôn an yên,khoẻ mạnh và được yêu thương đúng như bạn mong muốn 🌷",
         "Hãy luôn tin vào bản thân, bởi bạn hoàn toàn xứng đáng với những điều tốt đẹp nhất trong cuộc sống này 🌼",
-        "Chúc bạn có một ngày 20/10 thật vui vẻ, hạnh phúc và luôn rạng rỡ như những đóa hoa xinh đẹp ❤️"
+        "Chúc các chị và các bạn có một ngày 20/10 thật vui vẻ, hạnh phúc và luôn rạng rỡ như những đóa hoa xinh đẹp ❤️"
     ];
 
     const msgEl = document.getElementById('message');
@@ -79,3 +79,4 @@ window.addEventListener('load', () => {
         }
     });
 });
+
